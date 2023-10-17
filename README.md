@@ -34,4 +34,4 @@ To add a new Dad Joke, select option 6 from the menu and follow the prompts to e
 
 To exit the application, select option 7 from the menu.
 
-#Enjoy the Dad Jokes!
+# Enjoy the Dad Jokes!
