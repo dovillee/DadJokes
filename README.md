@@ -2,7 +2,7 @@
 
 ## System Requirements:
 
-You need to have Java installed on your computer. If you don't have Java, you can download and install it from [here] (https://www.oracle.com/java/technologies/javase-downloads.html).
+You need to have Java installed on your computer. If you don't have Java, you can download and install it from [here](https://www.oracle.com/java/technologies/javase-downloads.html).
 ## Setup and Running:
 1. Download the Dad Joke Application from https://github.com/dovillee/DadJokes
 2. Open a Terminal or Command Prompt:
